@@ -1,2 +1,2 @@
 this is  my new repo
-author - juhi sharma
+author - juhi sharma(python)
